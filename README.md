@@ -40,7 +40,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Ansible, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=ansible,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Ansible, AWS, Bash, Docker, Elsaticsearch, GCP, Git, Github, Gitlab, Golang, Grafana, Jenkins](https://skillicons.dev/icons?i=ansible,aws,bash,docker,elasticsearch,gcp,git,github,gitlab,go,grafana,jenkins)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
