@@ -40,7 +40,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Ansible, AWS, Bash, Docker, Elsaticsearch, GCP, Git, Github, Gitlab, Golang, Grafana, Jenkins](https://skillicons.dev/icons?i=ansible,aws,bash,docker,elasticsearch,gcp,git,github,gitlab,go,grafana,jenkins)](https://skillicons.dev)
+[![kubernetes, Ansible, AWS, Terraform, Bash, Docker, Elsaticsearch, GCP, Git, Github, Gitlab, Golang, Grafana, Jenkins,Linux, Nginx, Openshift, Openstack, Perl, Prometheus, Python](https://skillicons.dev/icons?i=kubernetes,ansible,aws,terraform,bash,docker,elasticsearch,gcp,git,github,gitlab,go,grafana,jenkins,linux,nginx,openshift,openstack,perl,prometheus,py)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
