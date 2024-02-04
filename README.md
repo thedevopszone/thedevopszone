@@ -80,7 +80,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ## 🎮 When I'm AFK:
 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![Crunchyroll](https://img.shields.io/badge/JamTrackCentral-F47521?style=for-the-badge&logo=jamtrackcentral&logoColor=white)
 
 </div>
 
