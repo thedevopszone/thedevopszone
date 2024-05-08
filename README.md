@@ -26,7 +26,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I’m working as a freelance DevOps Engineer at [DG Nexolution](https://www.linkedin.com/company/p33r-finance/).
+- 🔭 I’m working as a freelance DevOps/Cloud Engineer.
 - 🌱 I’m passionate about tech
 - 📝 I’m aiming to write **one article per week** starting from January 2024.
 - ⚡ Fun fact: I own a rackserver in my basement with 4 Servers, play Guitar, Windsurf and Kitesurf and live with my wife and my two boys in Hamburg Germany!
