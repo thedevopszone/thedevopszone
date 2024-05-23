@@ -26,7 +26,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 </div>
 
 
-I transform small and medium-sized enterprises to the cloud (preferably also using German cloud providers) and/or use the existing data center to plan and implement our own cloud including microservices in Kubernetes.
+I transform small and medium-sized enterprises to the cloud (also using German cloud providers) and/or use the existing data center to plan and implement our own cloud including microservices in Kubernetes.
 
 - 🔭 I’m working as a freelance DevOps/Cloud Engineer.
 - 🌱 I’m passionate about tech
