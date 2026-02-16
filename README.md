@@ -22,19 +22,10 @@ I enjoy building systems that keep running — especially when things get compli
 
 ## Things I've Built
 
-### GitLab HA Lab  
-High-availability GitLab setup with external PostgreSQL, Patroni and automated failover.  
-Focus: resilience, backups and production-like automation.  
+### awsaimentor.com 
+A learning platform with AI generated questions, tests, payment and much more  
 
-(Repository Link)
-
----
-
-### PostgreSQL HA Cluster  
-Three-node PostgreSQL cluster using Patroni and etcd.  
-Built to understand replication behaviour, failover mechanics and consistency under load.  
-
-(Repository Link)
+https://awsaimentor.com/
 
 ---
 
