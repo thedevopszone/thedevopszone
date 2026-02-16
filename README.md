@@ -9,59 +9,59 @@ I enjoy building systems that keep running — especially when things get compli
 
 ## Things I've Built
 
-### GitLab HA Environment
-High availability GitLab setup with PostgreSQL, Patroni and HA design.
-Focus: resilience, automation and production-ready patterns.
+### GitLab HA Lab
+High-availability GitLab setup with external PostgreSQL, Patroni and automated failover.
+Focus: resilience, backup strategy and production-like automation.
 
-(Repository Link here)
-
----
-
-### Kubernetes Homelab
-Multi-node Kubernetes setup running in my own rackserver environment.
-Experimenting with HA, storage, GitOps and secure networking.
-
-(Repository Link here)
+(Repository Link)
 
 ---
 
-### PostgreSQL HA with Patroni
-Three-node PostgreSQL cluster with automated leader election and replication.
-Built for learning and production-grade understanding.
+### PostgreSQL HA Cluster
+Three-node PostgreSQL cluster using Patroni and etcd.
+Built to understand replication, failover behaviour and data consistency under load.
 
-(Repository Link here)
-
----
-
-### Podman & Quadlet Automation
-Container deployments using Podman and systemd Quadlets on Rocky Linux.
-Focus on reproducible infrastructure.
-
-(Repository Link here)
+(Repository Link)
 
 ---
 
-### AI Infrastructure Lab
-Running local LLM workloads on GPU infrastructure.
-Combining Kubernetes, monitoring and security considerations.
+### Kubernetes Homelab (Multi-Node)
+Multi-node Kubernetes environment running in my own rackserver setup.
+Includes GitOps, monitoring stack and persistent storage experiments.
 
-(Repository Link here)
-
----
-
-## Microsoft Azure / Cloud
-
-I work in hybrid and cloud-native environments.
-Currently focusing on secure infrastructure, identity management and automation.
+(Repository Link)
 
 ---
 
-## Languages
+### Podman Quadlet Deployment Stack
+Container deployment setup using Podman and systemd Quadlets on Rocky Linux.
+Replacing docker-compose setups with reproducible systemd-based units.
 
-Go • Python • Bash
+(Repository Link)
 
-After experimenting with Go, I’ve returned to Python for most tooling and automation work.
-I like using the right tool for the job.
+---
+
+### Monitoring & Observability Stack
+Prometheus, Grafana and log aggregation setup across multiple nodes.
+Focus on alerting, metrics, and realistic infrastructure monitoring.
+
+(Repository Link)
+
+---
+
+### Immutable Logging Experiment
+Prototype setup to make Linux logs tamper-evident for compliance use cases.
+Exploring auditability and long-term log integrity.
+
+(Repository Link)
+
+---
+
+### AI Infrastructure Playground
+Local GPU-backed environment for running LLM workloads.
+Exploring Kubernetes scheduling, isolation, monitoring and cost impact.
+
+(Repository Link)
 
 ---
 
@@ -78,6 +78,6 @@ https://medium.com/@mundt_thomas
 ## About
 
 I run a homelab with multiple rack servers in my basement.
-I like building real infrastructure, not slide decks.
+I prefer systems that survive audits and outages.
 
 Based in Hamburg, Germany.
