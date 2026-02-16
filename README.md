@@ -1,59 +1,50 @@
 ### Hi, I'm Thomas 👋
 
-Freelance DevOps & Cloud Engineer based in Hamburg, Germany.
+Freelance DevOps & Cloud Engineer from Hamburg, Germany.
 
-I design and build secure, scalable cloud and on-prem platforms for small and medium-sized enterprises — including hybrid setups with German cloud providers.
+I design and implement secure, scalable cloud and on-prem platforms.
+Mostly hands-on. Mostly production. Mostly Kubernetes.
 
-With more than 20 years in infrastructure and software engineering, my focus today is on:
+---
+
+## What I do
 
 - Kubernetes platform engineering
-- Secure cloud & on-prem architectures
+- Hybrid cloud & datacenter architectures
 - Infrastructure as Code
-- CI/CD and GitOps
-- Identity & secrets management
-- Compliance-ready infrastructure
+- CI/CD design & automation
+- High availability setups
+- Secure infrastructure (Identity, Secrets, PKI)
+- AI workloads on local infrastructure
 
 ---
 
-## What I’m currently working on
+## 💻 Tech Stack
 
-- Multi-cluster Kubernetes environments
-- High-availability GitLab and PostgreSQL setups
-- Zero-trust security architectures
-- AI workloads on local infrastructure (LLM / GPU based)
-- Compliance automation for regulated environments
+[![kubernetes, Ansible, AWS, Terraform, Bash, Docker, Elasticsearch, GCP, Git, Github, Gitlab, Golang, Grafana, Jenkins, Linux, Nginx, Openshift, Openstack, Perl, Prometheus, Python](https://skillicons.dev/icons?i=kubernetes,ansible,aws,terraform,bash,docker,elasticsearch,gcp,git,github,gitlab,go,grafana,jenkins,linux,nginx,openshift,openstack,prometheus,py)](https://skillicons.dev)
 
 ---
 
-## Core Technologies
+# Skills
 
-**Container & Platform**
-Kubernetes, Docker, Podman, OpenShift, Rancher, OpenStack  
-
-**Infrastructure as Code**
-Terraform, Ansible, AWX  
-
-**Cloud**
-AWS, GCP, Hybrid & Datacenter environments  
-
-**Languages**
-Go, Python, Bash, JavaScript  
-
-**Databases**
-PostgreSQL, MySQL, MongoDB  
-
-**DevOps & Observability**
-GitLab, GitHub, Prometheus, Grafana, Elasticsearch  
+| Category | Tools |
+|----------|-------|
+| Container & Platform | <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/> <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/> |
+| Infrastructure as Code | <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/> <img src="https://img.shields.io/badge/AWX-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/> |
+| Cloud | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> |
+| Languages | <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> |
+| Database | <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Observability | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/> |
 
 ---
 
-## Writing & Knowledge Sharing
+## Writing
 
-I regularly publish articles about Kubernetes, platform engineering, and infrastructure design:
+I publish technical articles about Kubernetes, HA architectures, platform engineering and secure infrastructure:
 
-https://dev.to/tmundt  
-https://thedevopszone.hashnode.dev  
-https://medium.com/@mundt_thomas  
+- https://dev.to/tmundt
+- https://thedevopszone.hashnode.dev
+- https://medium.com/@mundt_thomas
 
 ---
 
@@ -66,8 +57,8 @@ https://medium.com/@mundt_thomas
 
 ---
 
-## About me
+## Outside of Tech
 
-I run a homelab with multiple rack servers, experiment with new infrastructure patterns, and enjoy working hands-on with real systems.
-
-Outside of tech: guitar, windsurfing, kitesurfing — and family life with my wife and two boys in Hamburg.
+Homelab enthusiast with rack servers in the basement.  
+Guitar player. Windsurf & kitesurf fan.  
+Living in Hamburg with my wife and two boys.
