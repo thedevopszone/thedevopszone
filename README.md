@@ -7,12 +7,6 @@ I enjoy building systems that keep running — especially when things get compli
 
 ---
 
-## 💻 Tech Stack
-
-[![kubernetes, Ansible, AWS, Terraform, Bash, Docker, Elasticsearch, GCP, Git, Github, Gitlab, Golang, Grafana, Jenkins, Linux, Nginx, Openshift, Openstack, Prometheus, Python](https://skillicons.dev/icons?i=kubernetes,ansible,aws,terraform,bash,docker,elasticsearch,gcp,git,github,gitlab,go,grafana,jenkins,linux,nginx,openshift,openstack,prometheus,py)](https://skillicons.dev)
-
----
-
 # Skills
 
 | Category | Tools |
