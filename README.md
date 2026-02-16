@@ -1,80 +1,73 @@
-### Hi, I'm Thomas Mundt 👋  
-Principal DevOps • AI Infrastructure • Zero Trust Architect
+### Hi, I'm Thomas 👋
 
-<div align="center">
+Freelance DevOps & Cloud Engineer based in Hamburg, Germany.
 
-[![Hello World, I'm Thomas!](assets/header.gif)](https://github.com/thedevopszone)
+I design and build secure, scalable cloud and on-prem platforms for small and medium-sized enterprises — including hybrid setups with German cloud providers.
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thomasmundt/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tmundt@softxpert.de?subject=Hello%20Thomas,%20From%20Github)
+With more than 20 years in infrastructure and software engineering, my focus today is on:
 
-</div>
-
----
-
-## 🚀 About Me
-
-I design and build **secure, scalable, and audit-ready cloud & on-prem platforms**  
-for enterprises and regulated environments in Germany.
-
-With 20+ years in infrastructure and software engineering, I focus on:
-
-- 🔐 Zero Trust Architectures
-- 🏗 Platform Engineering
-- 🤖 AI Infrastructure (Local LLM / GPU / On-Prem AI)
-- ☁️ Hybrid & Sovereign Cloud
-- 🛡 Compliance Automation (NIS2 / ISO / BSI ready)
-
-I don't just deploy systems.  
-I design platforms that scale, survive audits, and operate under real-world constraints.
+- Kubernetes platform engineering
+- Secure cloud & on-prem architectures
+- Infrastructure as Code
+- CI/CD and GitOps
+- Identity & secrets management
+- Compliance-ready infrastructure
 
 ---
 
-## 🎯 Current Focus
+## What I’m currently working on
 
-- 🔐 Identity & Secrets Architecture (Keycloak, Vault, mTLS)
-- 🌐 Kubernetes Platform Engineering (Multi-Cluster / GitOps)
-- 🤖 AI + DevOps Integration (Secure Enterprise AI)
-- 📊 Observability & Cost Governance
-- 🏛 Compliance-as-Code
-
----
-
-## 🏗 Architecture Domains
-
-### 🔐 Identity & Zero Trust
-- OIDC / OAuth2
-- Enterprise SSO
-- Token-based microservice security
-- PKI automation
-
-### ☸ Kubernetes & Platform Engineering
-- Multi-Cluster Kubernetes
-- GitOps & CI/CD Architecture
-- Internal Developer Platforms
-- GPU scheduling & AI workloads
-
-### 🛡 Compliance & Security Engineering
-- CIS Hardening
-- Policy as Code (OPA / Kyverno)
-- Audit evidence automation
-- Immutable logging
-
-### 🤖 AI Infrastructure
-- Local LLM deployment
-- Secure model integration
-- AI observability
-- Cost-aware inference infrastructure
+- Multi-cluster Kubernetes environments
+- High-availability GitLab and PostgreSQL setups
+- Zero-trust security architectures
+- AI workloads on local infrastructure (LLM / GPU based)
+- Compliance automation for regulated environments
 
 ---
 
-## 💻 Tech Stack
+## Core Technologies
 
-### Container & Platform
-Kubernetes • Docker • Podman • OpenShift • Rancher • OpenStack
+**Container & Platform**
+Kubernetes, Docker, Podman, OpenShift, Rancher, OpenStack  
 
-### Infrastructure as Code
-Terraform • Ansible • AWX
+**Infrastructure as Code**
+Terraform, Ansible, AWX  
 
-### Cloud
-AWS • GCP • German
+**Cloud**
+AWS, GCP, Hybrid & Datacenter environments  
+
+**Languages**
+Go, Python, Bash, JavaScript  
+
+**Databases**
+PostgreSQL, MySQL, MongoDB  
+
+**DevOps & Observability**
+GitLab, GitHub, Prometheus, Grafana, Elasticsearch  
+
+---
+
+## Writing & Knowledge Sharing
+
+I regularly publish articles about Kubernetes, platform engineering, and infrastructure design:
+
+https://dev.to/tmundt  
+https://thedevopszone.hashnode.dev  
+https://medium.com/@mundt_thomas  
+
+---
+
+## GitHub Stats
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thedevopszone&show_icons=true&count_private=true&theme=dark" />
+    <img height=175 alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevopszone&layout=compact&theme=dark" />
+</p>
+
+---
+
+## About me
+
+I run a homelab with multiple rack servers, experiment with new infrastructure patterns, and enjoy working hands-on with real systems.
+
+Outside of tech: guitar, windsurfing, kitesurfing — and family life with my wife and two boys in Hamburg.
