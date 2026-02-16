@@ -22,7 +22,7 @@ I enjoy building systems that keep running — especially when things get compli
 
 ## Things I've Built
 
-### awsaimentor.com 
+### AWS Learning Platform
 A learning platform with AI generated questions, tests, payment and much more  
 
 https://awsaimentor.com/
